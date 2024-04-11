@@ -1,0 +1,7 @@
+C:\Users\saovbapt\source\repos\lista 1\lista 1\bin\Debug\lista 1.exe.config
+C:\Users\saovbapt\source\repos\lista 1\lista 1\bin\Debug\lista 1.exe
+C:\Users\saovbapt\source\repos\lista 1\lista 1\bin\Debug\lista 1.pdb
+C:\Users\saovbapt\source\repos\lista 1\lista 1\obj\Debug\lista 1.csproj.AssemblyReference.cache
+C:\Users\saovbapt\source\repos\lista 1\lista 1\obj\Debug\lista 1.csproj.CoreCompileInputs.cache
+C:\Users\saovbapt\source\repos\lista 1\lista 1\obj\Debug\lista 1.exe
+C:\Users\saovbapt\source\repos\lista 1\lista 1\obj\Debug\lista 1.pdb
